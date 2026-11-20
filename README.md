@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, sou o Diogo 👋
 
-<!--
-**diogomsd06/diogomsd06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Sistemas Informáticos (IPCA) e estagiário de desenvolvimento **Laravel/PHP**, a viver em Braga.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 A aprender
+- Laravel (projetos práticos)
+- Boas práticas de Git e GitHub
+
+## 📫 Contactos
+- LinkedIn: [o-teu-perfil](https://linkedin.com/in/o-teu-perfil)
+
+## 📊 Estatísticas
+![Stats](https://github-readme-stats.vercel.app/api?username=diogomsd06&show_icons=true&theme=dark)
